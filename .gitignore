@@ -1,0 +1,7 @@
+*.iml
+/.idea/
+/target/
+/contrl_mysqll/target/
+
+contrl_mysqll/src/test/
+
